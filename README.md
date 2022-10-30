@@ -7,10 +7,12 @@ The Kaggle Data set created by Mark Koverha Top Hits Spotify from 2000-2019: htt
 
 The CSV Dataset: [Spotify Top Hits 2000-2019.csv](https://github.com/brookecavanagh13908102/A3_WWDC_tut5/files/9884385/Spotify.Top.Hits.2000-2019.csv)
 
+Top Hits Spotify from 2000-2019 data set with added URIs:[Spotify Top Hits: Uris.csv](https://github.com/brookecavanagh13908102/A3_WWDC_tut5/files/9895227/Spotify.Top.Hits.Uris.
+
 iFrame API script: To embed the Spotify tracks in the dashboard.
 ### The Project
 [The Top Hits Soundtrack WorkBook.twb.zip](https://github.com/brookecavanagh13908102/A3_WWDC_tut5/files/9895219/The.Top.Hits.Soundtrack.WorkBook.twb.zip)
-Top Hits Spotify from 2000-2019 data set with added URIs:[Spotify Top Hits: Uris.csv](https://github.com/brookecavanagh13908102/A3_WWDC_tut5/files/9895227/Spotify.Top.Hits.Uris.csv)
+csv)
 ### Launch
 To access the data visualisation, the direct link under "The Project" headline will open a separate browser on the Tableau website. Similarly, download the visualisation to access it in your Tableau application.
 ### Screenshots
