@@ -11,8 +11,9 @@ Top Hits Spotify from 2000-2019 data set with added URIs:[Spotify Top Hits: Uris
 
 iFrame API script: To embed the Spotify tracks in the dashboard.
 ### The Project
-[The Top Hits Soundtrack WorkBook.twb.zip](https://github.com/brookecavanagh13908102/A3_WWDC_tut5/files/9895252/The.Top.Hits.Soundtrack.WorkBook.twb.zip)
+https://studentutsedu-my.sharepoint.com/:f:/g/personal/brooke_cavanagh_student_uts_edu_au/Eha9xmGChTpIrLG0QN8Pnk0B1mCTkeoxvXhbEhuvFZ6iZA?e=uq7bS2
+
 ### Launch
-To access the data visualisation, the direct link under "The Project" headline will open a separate browser on the Tableau application. 
+To access the data visualisation, click the direct link under "The Project" headline. The link will open the one drive folder with the downloadable Tableau file. Ensure Tableau is installed on your device before accessing the project.
 ### Screenshots
 <img width="998" alt="Screen Shot 2022-10-30 at 5 29 40 pm" src="https://user-images.githubusercontent.com/116618150/198865691-b6b834a6-a56d-405e-b8bc-52d3e5af5ec5.png">
